@@ -7,7 +7,7 @@
   
   3) Fix up the folder structure.`
 
-  4) Fill in the form under the IP submission<!--- (http://moringaprep-ft.herokuapp.com/#10.html)---> heading in the LMS
+  4) Fill in the form under the IP submission <!--(http://moringaprep-ft.herokuapp.com/#10.html)--> heading in the LMS
 
   5) Complete the independent project.
   
