@@ -11,4 +11,10 @@ This is a front-end website for Anita's Kitchen which used  to describe differen
 
 This is a website for an online company called Anita's Kitchen where she displays on her website different recipes for her online clients to see and use in their day to day cooking.
 
-## Setup Installation ##
+## Project Installation ##
+
+*open your default web browser
+internet connection is required
+*search for Samuel Mwaura on github and click on the repository Anitas Kitchen where you will find an active link to the site in the repository.
+*Scroll through the page and view the content
+*Give feedback through the contacts and report any bugs experienced
