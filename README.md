@@ -28,7 +28,7 @@ The programming languages used in this project are HTML and partly javascript.
 
 # live site link #
 
-(http://sammwaura.github.io/AnitasKitchen/)
+ https://sammwaura.github.io/Anitas-kitchen/
 
 # Licensing #
 

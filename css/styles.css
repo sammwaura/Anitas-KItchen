@@ -28,11 +28,8 @@
   /*background-color: blue;*/
   margin:auto;
   overflow: hidden;
-
-
-
-
 }
+
 html, body {
  margin: 0px;
  padding: 0px;
@@ -86,17 +83,27 @@ html, body {
    background: url(../images/foodtop/breakfast.jpg);
  }
 
- #nav3{
-   background: url(../images/foodtop/lunch.jpg);
+  #nav3{
+    cursor: pointer;
+      transition-duration: 0.4s;
+      background: url(../images/foodtop/lunch.jpg);
+
  }
- #nav4{
+ #nav4 {
+   cursor: pointer;
+  transition-duration: 0.4s;
    background: url(../images/foodtop/dinner.jpg);
  }
+
+#nav3:hover:focus #nav4:hover:focus{
+  color: #f1f1f1;
+
+}
 
  .navtext{
    font-weight: 400px;
    margin:auto;
-   color: white;
+   color: black;
  width: 100px;
  margin-top: 100px;
  }
